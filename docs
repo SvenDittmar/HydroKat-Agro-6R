@@ -1,4 +1,80 @@
-          
-/docs
-  /DE_Prioritaetsdokument.md
-  /EN_Design_Guide.md
+/DE_Prioritaetsdokument.md
+
+**Prioritätsdokument: HydroKat-Agro 6R - Zusammenfassung**  
+**Urheber**: Sven Dittmar  
+**Datum**: 26. Juli 2025  
+**Lizenz**: CC BY-SA 4.0  
+
+---
+
+### 🌟 **Kerninnovationen**  
+1. **Adaptive Schaufelräder**  
+   - **Druckgesteuerte Teleskopschaufeln** in hohler Drehachse (Ø 3-5 m)  
+   - Automatische Anpassung an Strömung (0.8-3.5 m/s) und Wasserstand  
+   - **Leistung**: 4.7-125 kW pro Rad → **1.68 GWh/Jahr bei 6 Rädern**  
+
+2. **Schwimmende Katamaran-Plattform**  
+   - Abmessungen: 150 m × 150 m  
+   - **Schwimmkörper**: Fischzucht (15.000 m³ für 450 t Tilapia/Jahr)  
+   - **Aquaponik**: 3 Etagen (30.000 m² für 1.425 t Gemüse/Jahr)  
+
+3. **Integrierte Kreislaufwirtschaft**  
+   - **Seitliche Verarbeitungsmodule** (2.400 m²):  
+     - Fischfiletierung, Trocknung, Vakuumverpackung  
+     - Kühlkette (-25°C mit Absorptionskälte)  
+   - **Vertikale Logistik**:  
+     Förderbänder verbinden Fischbecken → Verarbeitung → Anlegestellen  
+
+4. **Ökologisches Design**  
+   - Fischdurchgängige Schaufeln (Abstand > 40 cm)  
+   - Sedimentlenkung durch 5°-Schrägstellung  
+   - CO₂-Bindung: 550 t/Jahr  
+
+---
+
+### ⚙️ **Technische Schlüsseldaten**  
+| Parameter               | Wert                      |  
+|-------------------------|---------------------------|  
+| Schaufelrad-Breite      | 45 m (pro Rad)            |  
+| Gesamte aktive Breite   | 90 m (bei 6 Rädern)       |  
+| Druckluftsystem         | 15 bar, 120 m³/min        |  
+| Anlegestellen           | 2 × 30 m (Schiffe ≤500 t) |  
+| Kühlenergiebedarf       | 35 kW (Überschussstrom)   |  
+
+---
+
+### 💰 **Wirtschaftlichkeit**  
+- **Gesamtinvestition**: 7.29 Mio. €  
+- **Jahresumsatz**:  
+  - Verarbeitete Produkte: **2.92 Mio. €**  
+  - Stromüberschuss: 201.600 €  
+- **Amortisation**: 2.7 Jahre  
+
+---
+
+### 🌍 **Globaler Nutzen**  
+- **Entwicklungsländer**: Low-Cost-Version aus Bambus (<15.000 €)  
+- **Klimaschutz**: Einsparung von 1.200 t CO₂/Jahr  
+- **Open-Source-Impact**:  
+  - [GitHub-Repository](https://github.com/SvenDittmar/HydroKat-Agro-6R)  
+  - #HydroKatAgro-Community  
+
+---
+
+### 📝 **Dokumentationsstatus**  
+| Komponente             | Verfügbar in Repo          |  
+|------------------------|----------------------------|  
+| CAD-Modelle            | Schaufelrad, Pontons       |  
+| Strömungssimulation    | CFD-Daten für 6-Rad-Anordnung |  
+| Steuerungscode         | Arduino + Python-Skripte   |  
+| Bauanleitung           | DE/EN mit Low-Tech-Optionen |  
+
+---
+
+### 🔗 **Vollständiger Entwicklungspfad**  
+Dokumentiert im DeepSeek-Chat vom 26.07.2025:  
+- Energieberechnungen  
+- Biomimetische Schaufelmechanik  
+- Aquaponik-Kreislaufdiagramme  
+- Sicherheitskonzepte (Hochwasser/Notstopp)  
+
